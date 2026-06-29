@@ -1,0 +1,6 @@
+/workspaces/CubeIDE/Core/Src/stm32l4xx_hal_msp.c:65:6:HAL_MspInit	16	static
+/workspaces/CubeIDE/Core/Src/stm32l4xx_hal_msp.c:90:6:HAL_I2C_MspInit	184	static
+/workspaces/CubeIDE/Core/Src/stm32l4xx_hal_msp.c:137:6:HAL_I2C_MspDeInit	16	static
+/workspaces/CubeIDE/Core/Src/stm32l4xx_hal_msp.c:168:6:HAL_UART_MspInit	184	static
+/workspaces/CubeIDE/Core/Src/stm32l4xx_hal_msp.c:251:6:HAL_UART_MspDeInit	16	static
+/workspaces/CubeIDE/Core/Src/stm32l4xx_hal_msp.c:283:6:HAL_WWDG_MspInit	24	static

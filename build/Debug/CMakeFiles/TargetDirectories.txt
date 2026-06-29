@@ -1,0 +1,7 @@
+/workspaces/CubeIDE/build/Debug/CMakeFiles/bugface.dir
+/workspaces/CubeIDE/build/Debug/CMakeFiles/edit_cache.dir
+/workspaces/CubeIDE/build/Debug/CMakeFiles/rebuild_cache.dir
+/workspaces/CubeIDE/build/Debug/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+/workspaces/CubeIDE/build/Debug/cmake/stm32cubemx/CMakeFiles/FreeRTOS.dir
+/workspaces/CubeIDE/build/Debug/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+/workspaces/CubeIDE/build/Debug/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
